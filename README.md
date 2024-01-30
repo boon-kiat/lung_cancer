@@ -21,7 +21,7 @@ WQD7003 Data Analytics
 - Contain information on 1000 lung cancer patients. 
 - Consist of 10 risk factors of lung cancer and 11 symptoms of lung cancer.
 
-### CRISP-DM Methodology:
+### CRISP-DM (CRoss Industry Standard Process for Data Mining) Methodology:
 _Business Understanding:_  
 - Our business is Alpha Healthcare, which provides healthcare services, such as diagnostic and health screening.
 - Business goal is to identify individuals who are at high risk of lung cancer and provide targeted screening.
